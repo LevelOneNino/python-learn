@@ -193,7 +193,6 @@ len(myTuple) # 3 (numero de items)
 ```
 ### set
 - Los items de un set no son ordenados, no pueden cambiarse, y no permiten valores duplicados.
-- Los items de una tupla son indexados, el primer item tiene indice [0], el segundo tiene indice [1], etc.
 - No puedes acceder a items de un set con un index o key, pero puedes hacer acceder a los items a traves de un loop y verificar si un item existe dentro del set
 - Nota: Los valores True y 1 son considerados el mismo en sets, y son tratados como duplicados
 - Nota: Los valores False y 0 son considerados el mismo en sets, y son tratados como duplicados
